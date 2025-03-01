@@ -1,6 +1,6 @@
 # Strobe Controller Communication
 
-Developed code to enable effective communication with [FRAMOS](https://www.framos.com/en/product-catalog/strobe-controllers) strobe controllers using raw commands. The code simplifies the configuration of network settings and user-defined parameters.
+Developed code to enable effective communication with [FRAMOS](https://www.framos.com/en/product-catalog/strobe-controllers) strobe controllers using raw commands, utilizing both TCP and UDP protocols. The code simplifies the configuration of network settings and user-defined parameters.
 
 ## Folders to Use
 
