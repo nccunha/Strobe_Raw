@@ -1,0 +1,5 @@
+﻿  strobeRaw_NetworkP.cpp
+C:\Users\NunoCunha\Documents\strobeRaw\strobeRaw_NetworkP\strobeRaw_NetworkP.cpp(49,50): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\NunoCunha\Documents\strobeRaw\strobeRaw_NetworkP\strobeRaw_NetworkP.cpp(58,16): warning C4267: '=': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\NunoCunha\Documents\strobeRaw\strobeRaw_NetworkP\strobeRaw_NetworkP.cpp(67,9): warning C4101: 'status': unreferenced local variable
+  strobeRaw_NetworkP.vcxproj -> C:\Users\NunoCunha\Documents\strobeRaw\strobeRaw_NetworkP\x64\Debug\strobeRaw_NetworkP.exe
